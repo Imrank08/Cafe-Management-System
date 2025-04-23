@@ -38,9 +38,9 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `name`, `password`) VALUES
-(1, 'admin', 'admin1234'),
-(3, 'mithun', 'admin1234'),
-(5, 'adminmk', 'admin1234');
+(1, 'admin', 'admin'),
+(3, 'mithun', 'admin'),
+(5, 'adminmk', 'admin');
 
 -- --------------------------------------------------------
 
@@ -88,8 +88,8 @@ CREATE TABLE `employee` (
 --
 
 INSERT INTO `employee` (`id`, `name`, `age`, `sex`, `phone`, `email`, `address`, `password`) VALUES
-(1, 'employee', 22, 'male', 1521509030, 'mk@gmial.com', 'badda, Dhaka 1212', 'admin1234'),
-(4, 'mithun', 25, 'male', 1521509031, '6884887987@gmial.com', 'dhaka', 'admin1234');
+(1, 'employee', 22, 'male', 1521509030, 'mk@gmial.com', 'badda, Dhaka 1212', 'admin'),
+(4, 'mithun', 25, 'male', 1521509031, '6884887987@gmial.com', 'dhaka', 'admin');
 
 -- --------------------------------------------------------
 
