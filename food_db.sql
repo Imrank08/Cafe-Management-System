@@ -38,9 +38,9 @@ CREATE TABLE `admin` (
 --
 
 INSERT INTO `admin` (`id`, `name`, `password`) VALUES
-(1, 'admin', '6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2'),
-(3, 'mithun', '6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2'),
-(5, 'adminmk', '6216f8a75fd5bb3d5f22b6f9958cdede3fc086c2');
+(1, 'admin', '1234'),
+(3, 'mithun', '1234'),
+(5, 'adminmk', '1234');
 
 -- --------------------------------------------------------
 
